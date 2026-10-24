@@ -1,0 +1,5 @@
+# Model fetch/convert tooling (open-source). Only needed to (re)generate assets.
+onnx2tf>=1.20.0
+tensorflow>=2.15.0
+onnx>=1.15.0
+onnxsim>=0.4.33
